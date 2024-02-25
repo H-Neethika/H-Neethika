@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Hi , I'm Neethika Hariharasakthy🤝
+
 🔭 I’m currently working on Procurement Management System for Faculty of Engineering , University of Ruhuna<br>👯 I’m looking to collaborate on Tutor Finder App<br>🌱 I’m currently learning Spring Boot & AWS<br>💬 How to reach me neethikahariharasakthy2000@gmail.com<br>
 
 
