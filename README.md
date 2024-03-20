@@ -1,6 +1,26 @@
-# 💫 Hi , I'm Neethika Hariharasakthy🤝
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
 
-🔭 I’m currently working on Procurement Management System for Faculty of Engineering , University of Ruhuna<br>👯 I’m looking to collaborate on Tutor Finder App<br>🌱 I’m currently learning Spring Boot & AWS<br>💬 How to reach me neethikahariharasakthy2000@gmail.com<br>
+<h1 align="center">Hi 👋, I'm Neethika Hariharasakthy</h1>
+<h3 align="center">Computer Engineering Undergraduate <br/> Faculty of Engineering <br/>University of Ruhuna</h3>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=h-neethika&label=Profile%20views&color=0e75b6&style=flat" alt="h-neethika" /> </p>
+
+
+
+- 🔭 I’m currently working on [Procurement Management System](https://github.com/Piumikavindya/Procument-Managemant-System.git)
+
+- 🌱 I’m currently learning *Spring boot , ReactJS and DevOps*
+
+- 💬 Ask me about *ReactJS & Spring boot*
+
+- 📫 How to reach me *neethikahariharasakthy2000@gmail.com*
+
+
+
+
+
 
 
 ## 🌐 Socials:
