@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on [Procurement Management System](https://github.com/Piumikavindya/Procument-Managemant-System.git)
 
-- 🌱 I’m currently learning *Spring boot , ReactJS and DevOps*
+- 🌱 I’m currently learning *Federated Learning , ReactJS and DevOps*
 
-- 💬 Ask me about *ReactJS & Spring boot*
+- 💬 Ask me about *AI related stuffs & Frontend (ReactJs)*
 
 - 📫 How to reach me *neethikahariharasakthy2000@gmail.com*
 
