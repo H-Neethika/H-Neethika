@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Procurement Management System](https://github.com/Piumikavindya/Procument-Managemant-System.git)
 
-- 🌱 I’m currently learning *Federated Learning , ReactJS and DevOps*
+- 🌱 I’m currently learning *SpringBoot , ReactJS and DevOps*
 
 - 💬 Ask me about *AI related stuffs & Frontend (ReactJs)*
 
