@@ -9,11 +9,11 @@
 
 <br/>
 
-- 🔭 I’m currently working on [Procurement Management System](https://github.com/Piumikavindya/Procument-Managemant-System.git)
+- 🔭 I’m currently working on RomeoHR Web Application
 
-- 🌱 I’m currently learning *SpringBoot , ReactJS and DevOps*
+- 🌱 I’m currently learning *Nest Js , Svelte and Google Cloud*
 
-- 💬 Ask me about *AI related stuffs & Frontend (ReactJs)*
+- 💬 Ask me about *React Js & Svelte*
 
 - 📫 How to reach me *neethikahariharasakthy2000@gmail.com*
 
