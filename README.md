@@ -15,7 +15,7 @@
 
 - 💬 Ask me about *React Js & Svelte*
 
-- 📫 How to reach me *neethikahariharasakthy2000@gmail.com*
+- 📫 How to reach me *neethihari13@gmail.com*
 
 
 
