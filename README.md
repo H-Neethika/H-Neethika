@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on RomeoHR Web Application
 
-- 🌱 I’m currently learning *Nest Js , Svelte and Google Cloud*
+- 🌱 I’m currently learning *Spring Boot and AWS*
 
 - 💬 Ask me about *React Js & Svelte*
 
