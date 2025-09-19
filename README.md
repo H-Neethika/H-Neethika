@@ -9,7 +9,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on RomeoHR Web Application
+- 🔭 I’m currently working on RomeoHR Web & Mobile Applications
 
 - 🌱 I’m currently learning *Spring Boot and AWS*
 
